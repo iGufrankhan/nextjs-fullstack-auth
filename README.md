@@ -42,4 +42,5 @@ For forgot password feature.
 ## your completed assignments
 
 - Add your repo link here
-- 
+ - ## 📂 Repository Link
+[👉 Click here to view the repository](https://github.com/iGufrankhan/nextjs-app)

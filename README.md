@@ -43,4 +43,4 @@ For forgot password feature.
 
 - Add your repo link here
  - ## 📂 Repository Link
-[👉 Click here to view the repository](https://github.com/iGufrankhan/nextjs-app)
+[👉 Click here to view the MY repository](https://github.com/iGufrankhan/nextjs-app)
